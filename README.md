@@ -4,6 +4,7 @@ cross-fetch<br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/lquixada/cross-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/lquixada/cross-fetch/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/lquixada/cross-fetch/branch/main/graph/badge.svg)](https://codecov.io/gh/lquixada/cross-fetch)
+![Node fetch](https://i.ytimg.com/vi/VTqDsVTtYw8/sddefault.jpg)
 ================
 
 Universal WHATWG Fetch API for Node, Browsers, Workers and React Native. The scenario that cross-fetch really shines is when the same JavaScript codebase needs to run on different platforms.
